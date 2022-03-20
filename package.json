@@ -1,7 +1,7 @@
 {
   "name": "vaheaa.am",
   "version": "1.0.0",
-  "description": "Vahe Abovyan developer portfolip website",
+  "description": "Vahe Abovyan developer's portfolio website",
   "main": "gulpfile.js",
   "type": "module",
   "scripts": {
